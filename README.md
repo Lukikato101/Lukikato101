@@ -4,7 +4,7 @@
 
 Focused on learning and building real-world systems through consistent practice.
 
-Software and robotics enthusiast focused on simulation, programming, system design, and prototyping. Building structured technical skills through projects, engineering practice, and continuous learning.
+Robotics enthusiast focused on Building Embbeded System. Building structured technical skills through projects, engineering practice, and continuous learning.
 
 ---
 
@@ -15,19 +15,18 @@ Software and robotics enthusiast focused on simulation, programming, system desi
 * C++ — Programming Language
 * Python — Programming Language
 * KiCad — EDA Software
-* Webots — Robot Simulation
 * Node JS — Javascript Runtime
 * GitHub — Repository
-* ROS2 — Robot Operating System
-* Canva — Design App
 * FreeCAD — 3D CAD Modeling
+* Canva - Prototyping Design
+* Etc
 
 ---
 
 ## 📫 Contact
 
-* Email: your_email_here
-* LinkedIn: your_linkedin_here
+* Email: sofiantjkt@gmail.com
+* LinkedIn: 
 * Instagram: your_instagram_here
 
 ---
