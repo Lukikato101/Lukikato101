@@ -26,8 +26,8 @@ Robotics enthusiast focused on Building Embbeded System. Building structured tec
 ## 📫 Contact
 
 * Email: sofiantjkt@gmail.com
-* LinkedIn: 
-* Instagram: your_instagram_here
+* LinkedIn: https://www.linkedin.com/in/sofian-hidayat-a8052b282?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Instagram: https://www.instagram.com/sofianzz_z?igsh=czZqdjJ5eWRmZnQy
 
 ---
 
