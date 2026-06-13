@@ -4,7 +4,7 @@
 
 Focused on learning and building real-world systems through consistent practice.
 
-Robotics enthusiast focused on Building Embbeded System. Building structured technical skills through projects, engineering practice, and continuous learning.
+Robotics enthusiast focused on Building Robot System. Building structured technical skills through projects, engineering practice, and continuous learning.
 
 ---
 
@@ -19,7 +19,8 @@ Robotics enthusiast focused on Building Embbeded System. Building structured tec
 * GitHub — Repository
 * FreeCAD — 3D CAD Modeling
 * Canva - Prototyping Design
-* Etc
+* FreeCad - Mechanical Design
+* Etc.
 
 ---
 
