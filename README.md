@@ -19,7 +19,6 @@ Robotics enthusiast focused on Building Robot System. Building structured techni
 * GitHub — Repository
 * FreeCAD — 3D CAD Modeling
 * Canva - Prototyping Design
-* FreeCad - Mechanical Design
 * Etc.
 
 ---
